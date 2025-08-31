@@ -1,4 +1,4 @@
-# VoiceTherapy
+# TherapySpace
 Professional AI-powered therapy sessions with multilingual support and compassionate voice interaction
 ---
 Demo video : https://www.loom.com/share/2bb9581886b348449b0469d7bf91553c?sid=e5ae1810-28e7-4a4a-aefa-f6fde4bc9aaa
@@ -147,6 +147,7 @@ Choose a **language/voice** pair from `VOICE_OPTIONS`. Example IDs: `en-US-julia
 - Manage secrets via environment variables; never commit API keys.
 
 ---
+
 
 
 
