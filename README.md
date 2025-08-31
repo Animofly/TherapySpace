@@ -1,5 +1,8 @@
 # VoiceTherapy
 
+Professional AI-powered therapy sessions with multilingual support and compassionate voice interaction
+
+
 AI-assisted therapy companion with:
 - **React + Vite + TypeScript + Tailwind + shadcn-ui** frontend(s)
 - **FastAPI** backend that:
