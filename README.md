@@ -96,7 +96,7 @@ npm run dev -- --port 5174   # run on a different port to avoid collision
 
 ---
 
-## API Contract
+## API Contract(Example)
 
 ### POST `/therapy`
 **Body**
@@ -147,5 +147,6 @@ Choose a **language/voice** pair from `VOICE_OPTIONS`. Example IDs: `en-US-julia
 - Manage secrets via environment variables; never commit API keys.
 
 ---
+
 
 
