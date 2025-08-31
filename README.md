@@ -1,6 +1,7 @@
 # VoiceTherapy
 
 Professional AI-powered therapy sessions with multilingual support and compassionate voice interaction
+---
 
 
 AI-assisted therapy companion with:
