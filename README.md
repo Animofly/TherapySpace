@@ -144,6 +144,3 @@ Choose a **language/voice** pair from `VOICE_OPTIONS`. Example IDs: `en-US-julia
 
 ---
 
-## License
-
-Add your preferred license (e.g., MIT) in `LICENSE`.
